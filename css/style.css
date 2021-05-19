@@ -851,6 +851,8 @@ section .content .text li i {
     background-color: transparent;
     border: 1px solid white;
     border-right: none;
+    color: white;
+    outline: none;
 }
 .subscribe .container form input[type="email"]::placeholder {
     color: white;
